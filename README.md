@@ -1,6 +1,7 @@
 # BabysFirstAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+Just a sweet and simple warm-up for Tour of Heros and felt worthwhile throwing it up here to track my progress!
 
 ## Development server
 
